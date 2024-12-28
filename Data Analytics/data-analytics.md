@@ -1,0 +1,2 @@
+#Exploratory data analysis (EDA) is a Data Science concept where we analyze a dataset to discover patterns, trends, and relationships within the data. It helps us better understand the information contained in the dataset and guides us in making informed decisions and formulating strategies to solve real business problems. If you want to understand Exploratory Data Analysis practically, this article is for you. In this article, I will take you through an implementation of Exploratory Data Analysis using Python.
+
