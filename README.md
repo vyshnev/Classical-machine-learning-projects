@@ -1,0 +1,1 @@
+Starting out the machine learning concepts and Trying out Machine learning projects - from exploratory data analysis to building easily manageable project to finally 3 full fledged projects (1 production-level project and 2 personl project)
