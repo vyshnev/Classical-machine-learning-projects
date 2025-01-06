@@ -1,0 +1,1 @@
+Here I will be practicing with simple machine learning projects, to get a better grasp of how things work
