@@ -27,7 +27,7 @@ Repository Structure
 * Testing and validation suite
 * Deployment considerations
 
-### [Time Series Analysis Project] (https://github.com/vyshnev/sales-forecasting-system)
+### [Time Series Analysis Project](https://github.com/vyshnev/sales-forecasting-system)
 
 * Temporal data processing
 * Trend and seasonality analysis
