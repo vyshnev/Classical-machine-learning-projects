@@ -34,7 +34,7 @@ Repository Structure
 * Forecasting models
 * Performance evaluation
 
-### Luxury Watch Price Prediction (Production Grade)
+### [Used Car Price Prediction](https://github.com/vyshnev/used-car-price-prediction.git)
 
 * Market analysis and feature importance
 * Advanced regression techniques
@@ -50,4 +50,5 @@ Repository Structure
 * Feature-engine
 * MLflow (for tracking experiments)
 * Docker (for containerization)
-
+---
+Note: This repository is actively under development. Projects and documentation will be updated regularly.
