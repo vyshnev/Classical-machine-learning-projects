@@ -1,7 +1,7 @@
 # Classical Machine Learning Projects
 A comprehensive portfolio showcasing my journey through machine learning - from foundational concepts to production-ready applications.
 ### Overview
-This repository documents my progression in machine learning, featuring structured projects that demonstrate increasing complexity and real-world applicability. The journey starts with exploratory data analysis fundamentals and culminates in three sophisticated machine learning implementations.
+This repository documents my progression in machine learning, featuring structured projects that demonstrate increasing complexity and real-world applicability. The journey starts with exploratory data analysis fundamentals and culminates in sophisticated machine learning implementations.
 Repository Structure
 ## 1. Foundational Concepts
 
@@ -48,7 +48,5 @@ Repository Structure
 * Pandas
 * NumPy
 * Feature-engine
-* MLflow (for tracking experiments)
-* Docker (for containerization)
 ---
 Note: This repository is actively under development. Projects and documentation will be updated regularly.
